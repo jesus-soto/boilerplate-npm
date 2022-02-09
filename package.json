@@ -1,5 +1,9 @@
 {
-	"author": "Jesús José Soto Rodríguez",
+  "author": "Jesús José Soto Rodríguez",
+  "description": "A project that does something awesome",
+  "keywords": [ "Mnage package json", "node", "json", "freecodecamp" ],
+  "license": "MIT",
+  "version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
